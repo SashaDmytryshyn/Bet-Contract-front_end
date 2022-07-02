@@ -1,3 +1,5 @@
+Below is the README by default when project was created Create React App as a template. Will be removed as project progresses.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
